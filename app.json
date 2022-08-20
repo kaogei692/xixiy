@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
-            "value": "3286085a-2ca1-4af4-9b62-3d2ab4a198db"
+            "value": "a36f3940-ae39-4a15-b50b-30ac1533b4b9"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/hyufty123/pzhwjrt/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/kaogei692/xixiy/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/hyufty123/pzhwjrt/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/kaogei692/xixiy/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/hyufty123/pzhwjrt/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/kaogei692/xixiy/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/hyufty123/pzhwjrt",
-    "repository": "https://github.com/hyufty123/pzhwjrt",
+    "website": "https://github.com/kaogei692/xixiy",
+    "repository": "https://github.com/kaogei692/xixiy",
     "stack": "container"
 }
